@@ -40,7 +40,9 @@ Tiers have been revised from the GW official tiers. The table below shows both t
 | Team | GW Tier | **League Tier** |
 |---|:---:|:---:|
 | Amazon | 1 | **1** |
-| Dwarf | 1 | **1** |
+| Dark Elf | 1 | **1** |
+| Elven Union | 2 | **1** |
+| High Elf | 1 | **1** |
 | Lizardmen | 1 | **1** |
 | Norse | 1 | **1** |
 | Skaven | 1 | **1** |
@@ -49,9 +51,7 @@ Tiers have been revised from the GW official tiers. The table below shows both t
 | Wood Elves | 1 | **1** |
 | Chaos Chosen | 2 | **2** |
 | Chaos Dwarf | 1 | **2** |
-| Dark Elf | 1 | **2** |
-| Elven Union | 2 | **2** |
-| High Elf | 1 | **2** |
+| Dwarf | 1 | **2** |
 | Human | 2 | **2** |
 | Imperial Nobility | 2 | **2** |
 | Necromantic Horror | 2 | **2** |
